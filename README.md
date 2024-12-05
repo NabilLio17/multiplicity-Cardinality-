@@ -1,6 +1,6 @@
 # multiplicity-Cardinality-
 OOP Java
-![image](foto-cardinality/Cash.png)
+
 ![image](foto-cardinality/Customer.png)
 ![image](foto-cardinality/Item.png)
 ![image](foto-cardinality/Order.png)
